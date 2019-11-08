@@ -1,0 +1,723 @@
+ul{
+	padding: 0;
+	margin: 20px;
+}
+
+.titre{
+	background-color: white ;
+	text-align: center;
+	display: flex;
+	flex-direction: row;
+	background-size: cover;
+
+}
+
+.titre{
+	padding: 0 50%;
+	justify-content: center;
+	padding:0 5px;
+}
+
+.profil{
+	width: auto;
+	height: 200px;
+	border-radius: 100px
+}
+.lien {
+	text-align: center
+	margin:0;
+	padding: 0
+}
+
+.lien{
+	background-color: white;
+	background-size: cover;
+}	
+
+a{
+	color: rgb(0, 0, 0);
+}
+
+h1{
+	text-align: center;
+}
+
+.miel{
+	display: block;
+	margin :auto;
+	border-radius: 200px
+}
+
+.video{
+	width: 300px;
+	height: auto ;
+	display: block ;
+	margin: auto
+}
+.pot {
+	text-align: center
+}
+
+body.content{
+	margin: 0 0px;
+}
+.logo {
+	width: 90px ;
+	height : auto;
+	border-radius: 200px;
+}
+
+.logob {
+	width: 90px ;
+	height : auto;
+	border-radius: 200px ;
+	margin: 20px 0; 
+}
+
+.membres {
+	align-content: center
+}
+
+.plan{
+	width:auto;
+	height: 300px;
+	margin-right: 75px;
+}
+
+.juju{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding: 0 20px
+}
+
+.popo{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding: 0 20px
+}
+
+.fille{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	font-family: 'Open Sans', sans-serif;
+	margin-top: 10px;
+}
+
+.petre{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding: 0 20px
+}
+
+.seb{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding: 0 20px
+}
+
+.mec{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	font-family: 'Open Sans', sans-serif;
+	margin-bottom: 10px;
+}
+
+.lien{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+}
+
+.equipe{
+	padding: 0 10px;	
+	text-decoration: none;
+	border-radius: 50px
+}
+
+.equipe:hover{
+	background-color: rgb(232, 240, 240);
+	color: black;
+}
+
+.histoire{
+	padding: 0 10px;
+	text-decoration: none ;
+	border-radius: 50px
+}
+
+.histoire:hover{
+	background-color: rgb(232, 240, 240);
+	color: black;
+}
+
+.produits{
+	padding: 0 10px;
+	text-decoration: none;
+	border-radius: 50px
+}
+
+.produits:hover{
+	background-color: rgb(232, 240, 240);
+	color: black;
+}
+
+.creation{
+	padding: 0 10px;
+	text-decoration: none;
+	border-radius: 50px
+}
+
+.creation:hover{
+	background-color: rgb(232, 240, 240);
+	color: black;
+}
+
+.api{
+	padding: 0 10px;
+	text-decoration: none;
+	border-radius: 50px
+}
+
+.api:hover{
+	background-color: rgb(232, 240, 240);
+	color: black;
+}
+
+.boutique{
+	padding: 0 10px;
+	text-decoration: none;
+	border-radius: 50px
+}
+
+.boutique:hover{
+	background-color: rgb(232, 240, 240);
+	color: black;
+}
+
+.maps {
+	display: flex ;
+	flex-direction : column;
+	justify-content: center;
+	text-align: center;
+}
+
+.open {
+	text-align: center
+}
+
+.glob{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+
+}
+
+.rsx{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.rsx{
+	padding: 0 40px;
+	justify-content: center;
+}
+
+.photob{
+	display: flex;
+	flex-direction: row;
+	justify-content: center; 
+	
+}
+
+.pb1{
+	width: auto;
+	height:300px;
+	padding: 0 30px
+}
+
+.pb2{
+	width: auto;
+	height:300px;
+	padding: 0 30px
+}
+
+.insta{
+	padding: 0 10px;
+}
+.abeille{
+	display: flex;
+	flex-direction: row;
+	text-align: left
+}
+
+.picabeille{
+	width: auto;
+	height: 200px;
+	border-radius: 100px
+}
+.picabeille {
+	padding: 0 50px
+}
+.videocreationexplication{
+	display: flex;
+	flex-direction: row;
+	justify-content: center
+}
+
+.creationmiel {
+	display: flex;
+	flex-direction: column;
+	padding: 0 30px;
+}
+
+.mieltitre{
+	list-style-type: none;
+	margin: 0 0;
+}
+
+.bottom{
+	background-color: rgb(245 226 83);
+	display: flex;
+	flex-direction: row;
+}
+
+
+.textc1{
+	display: flex;
+	flex: column;
+	align-items: center;
+	text-align: left;
+}
+
+.c1{
+	justify-content:center;
+	margin : auto;
+}
+
+.c2{
+	align-items: center;
+	margin: auto;
+	list-style: none
+	justify-content:center;
+	text-align: center;
+}
+
+.c3{
+	align-items: center;
+	margin: auto;
+	list-style: none
+	justify-content:center;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+}
+
+.bottom{
+	justify-content: center;
+	align-items: center;
+	background-size: cover;
+
+}
+
+.ch1{
+	display: flex;
+	flex-direction: row;
+	background-color: rgb(245, 245, 245);
+}
+
+.ich1{
+	width: 50% ;
+	height: auto;
+	padding: 10% 25%; 
+}
+
+.divi{
+	width: 50% ;
+	height: auto;
+	justify-content: center ;
+}
+
+.tch1{
+	width: 50% ;
+	height: auto;
+	padding: 0 10%;
+
+}
+
+.tch1{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+}
+.ch2{
+	display: flex;
+	flex-direction: row;
+	background-color: white;
+	justify-content: center ;
+	vertical-align: middle;
+}
+.boutiqueb{
+	text-decoration: none
+}
+.creationb{
+	text-decoration: none
+}
+.histoireb{
+	text-decoration: none
+}
+.apib{
+	text-decoration: none
+}
+.produitb{
+	text-decoration: none
+}
+body{
+	font-family: 'Amatic SC', cursive;
+	font-size: 20px;
+	margin:0 0;
+}
+
+li{
+	font-family: 'Open Sans', sans-serif;
+	margin: 0 10px
+}
+
+.titre {
+	font-family: 'Amatic SC', cursive;
+	font-size: 20px;
+	margin:0 0;
+}
+
+p{
+	font-family: 'Open Sans', sans-serif;
+}
+
+h4{
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+h3{
+	font-family: 'Amatic SC', cursive;
+	font-size: 30px;
+	margin: 20px;
+}
+
+.ban{
+	align-items:center;
+	width: 100%;
+	height: auto;
+	margin: 0 0;
+}
+
+.ban1{
+	width: 100%;
+	justify-content: center;
+}
+
+iframe{
+	margin-bottom: 10px
+}
+.rdvbt:hover{
+	background-color: rgb(245 226 83) ;
+	color: black;
+	padding: 10px 0px;
+}
+
+.rdvbt{
+	font-size: 100px;
+	text-decoration: none;
+	border-radius: 50px;
+}
+
+@media (max-width: 960px){
+	.lien {
+		width: 100%
+	}
+	.titre {
+		width: 100%
+	}
+	.ch1 {
+		width: 100%
+	}
+
+	.ban {
+		width: 100%
+	}
+	.ch2{
+		width: 100%
+	}
+	.bottom{
+		width: 100%
+	}
+	.fille{
+		width: 100%
+	}
+	.mec{
+		width: 100%
+	}
+	.open{
+		width: 100%
+	}
+	.glob{
+		width: 100%
+	}
+	.marque{
+		width: 100%
+	}
+	.mieltitre{
+		width: 100%
+	}
+	.videocreationexplication{
+		width: 100%
+	}
+	.c1 {
+		width: 100%
+	}
+	.c2 {
+		width: 100%
+	}
+	.c3 {
+		width: 100%
+	}
+	.creationmiel {
+		width: 100%
+	}
+}
+
+@media (max-width: 720px){
+	.lien {
+		width: 100%
+	}
+	.titre {
+		width: 100%
+	}
+	.ch1 {
+		width: 100%
+	}
+
+	.ban {
+		width: 100%
+	}
+	.ch2{
+		width: 100%
+	}
+	.bottom{
+		width: 100%
+	}
+	.fille{
+		width: 100%
+	}
+	.mec{
+		width: 100%
+	}
+	.open{
+		width: 100%
+	}
+	.glob{
+		width: 100%
+	}
+	.marque{
+		width: 100%
+	}
+	.mieltitre{
+		width: 100%
+	}
+	.videocreationexplication{
+		width: 100%
+	}
+	.c1 {
+		width: 100%
+	}
+	.c2 {
+		width: 100%
+	}
+	.c3 {
+		width: 100%
+	}
+	.creationmiel {
+		width: 100%
+	}
+}
+
+@media (max-width: 500px){
+	.lien {
+		width: 100%
+	}
+	.titre {
+		width: 100%
+	}
+	.ch1 {
+		width: 100%
+	}
+
+	.ban {
+		width: 100%
+	}
+	.ch2{
+		width: 100%
+	}
+	.bottom{
+		width: 100%
+	}
+	.fille{
+		width: 100%
+	}
+	.mec{
+		width: 100%
+	}
+	.open{
+		width: 100%
+	}
+	.glob{
+		width: 100%
+	}
+	.marque{
+		width: 100%
+	}
+	.mieltitre{
+		width: 100%
+	}
+	.videocreationexplication{
+		width: 100%
+	}
+	.c1 {
+		width: 100%
+	}
+	.c2 {
+		width: 100%
+	}
+	.c3 {
+		width: 100%
+	}
+	.creationmiel {
+		width: 100%
+	}
+}
+
+@media (max-width:450px){
+	.lien {
+		width: 100%
+	}
+	.titre {
+		width: 100%
+	}
+	.ch1 {
+		width: 100%
+	}
+
+	.ban {
+		width: 100%
+	}
+	.ch2{
+		width: 100%
+	}
+	.bottom{
+		width: 100%
+	}
+	.fille{
+		width: 100%
+	}
+	.mec{
+		width: 100%
+	}
+	.open{
+		width: 100%
+	}
+	.glob{
+		width: 100%
+	}
+	.marque{
+		width: 100%
+	}
+	.mieltitre{
+		width: 100%
+	}
+	.videocreationexplication{
+		width: 100%
+	}
+	.c1 {
+		width: 100%
+	}
+	.c2 {
+		width: 100%
+	}
+	.c3 {
+		width: 100%
+	}
+	.creationmiel {
+		width: 100%
+	}
+}
+
+@media (max-width:350px){
+	.lien {
+		width: 100%
+	}
+	.titre {
+		width: 100%
+	}
+	.ch1 {
+		width: 100%
+	}
+
+	.ban {
+		width: 100%
+	}
+	.ch2 {
+		width: 100%
+	}
+	.bottom {
+		width: 100%
+	}
+	.fille {
+		width: 100%
+	}
+	.mec {
+		width: 100%
+	}
+	.open {
+		width: 100%
+	}
+	.glob {
+		width: 100%
+	}
+	.marque {
+		width: 100%
+	}
+	.mieltitre {
+		width: 100%
+	}
+	.videocreationexplication {
+		width: 100%
+	}
+	.c1 {
+		width: 100%
+	}
+	.c2 {
+		width: 100%
+	}
+	.c3 {
+		width: 100%
+	}
+	.creationmiel {
+		width: 100%
+	}
+}
+
+.titreapi{
+	margin: 30px 0;
+}
+
+.texteapi{
+	margin: 50px 0;
+}
